@@ -1,0 +1,33 @@
+.holder {
+  background-color: rgba(95, 128, 133, 0.972);
+  border: 1.5px solid rgba(0, 255, 89, 0.703);
+  float: left;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 50px;
+  height: 50px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  color: blue;
+  text-align: center;
+  width: 50px;
+  
+}
+
+
+.xo {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.xo-info {
+  margin-top: 20%;
+  margin-left: -18%;
+  color: rgb(45, 174, 254);
+}
+
+.xo-board{
+  margin-left: 40%;
+}
